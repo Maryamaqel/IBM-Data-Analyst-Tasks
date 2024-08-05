@@ -1,5 +1,5 @@
 # IBM-Data-Analyst-Tasks
-This project is part of a simulation exercise for the Professional Certificate by IBM. The focus is on analyzing data from Stack Overflow, a well-known platform for developers. Stack Overflow conducted a detailed online survey of software professionals worldwide, gathering around 90,000 responses. This rich dataset was later open-sourced, providing a valuable resource for analysis.
+This project is part of the Data Analyst Professional Certificate by IBM. The focus is considering yourself an associate Data Analyst for a company working on a project analyzing data from Stack Overflow, a well-known platform for developers. Stack Overflow conducted a detailed online survey of software professionals worldwide, gathering around 90,000 responses. This rich dataset was later open-sourced, providing a valuable resource for analysis.
 
 The project workflow involves several key steps:
 
