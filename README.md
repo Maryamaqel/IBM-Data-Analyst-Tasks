@@ -24,6 +24,13 @@ A presentation was also created to summarize the key findings and insights, prov
 This project demonstrates the entire process of data analysis, from extraction and processing to analysis and visualization, culminating in a dashboard and presentation that effectively communicate the insights gained from the Stack Overflow survey data.
 
 Dashboards:
-![Currentr Technology Dashboard](Images/CurrentTech1.jpg)
+Current Technology Dashboard:
+![Current Technology Dashboard](Images/CurrentTech1.jpg)
+
+Future Technology Dashboard
+![Future Technology Dashboard](Images/FutureTech.jpg)
+
+Demographcis Dashboard:
+![Demographics Dashboard](Images/Demographics.jpg)
 
 Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCoursera&action=view&mode=dashboard&subView=model000001912086f582_00000000
