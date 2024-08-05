@@ -6,6 +6,7 @@ The project workflow involves several key steps:
 Data Extraction:
 
 The dataset was extracted using SQL, ensuring a solid foundation for subsequent analysis.
+
 Data Exploration and Processing:
 
 Initial exploration and processing were conducted to clean and prepare the data. This step involved handling missing values, normalizing data formats, and ensuring overall data quality.
